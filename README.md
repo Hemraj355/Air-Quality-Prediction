@@ -30,4 +30,12 @@ This project focuses on **environmental monitoring and pollution control**, spec
 - ✅ Initial plan documented  
 - ✅ Dataset loaded & basic exploration in Jupyter Notebook  
 
+## ✅ Week 2 Progress
+- Completed data preprocessing (missing values handled, date converted, City & AQI_Bucket encoded).
+- Feature selection finalized (pollutants + City as features; AQI_Bucket as target).
+- Train–test split (80/20) applied.
+- Trained & tested Logistic Regression, Decision Tree, Random Forest, SVM.
+- Evaluated with accuracy & classification report; added comparison chart.
+- Best performer this week: SVM (high accuracy).
+
 ---

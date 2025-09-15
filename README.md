@@ -38,4 +38,7 @@ This project focuses on **environmental monitoring and pollution control**, spec
 - Evaluated with accuracy & classification report; added comparison chart.
 - Best performer this week: SVM (high accuracy).
 
+## ✅ Week 3 Progress
+Performed detailed model evaluation, confusion matrices, and hyperparameter tuning (GridSearchCV). Final tuned model: SVM (C=1, kernel=linear, gamma=scale), saved as final_best_model.pkl. Notebook: week3_air_quality.ipynb
+
 ---
